@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularPipe_Assignment';
+
+  number:number=0;
 }
